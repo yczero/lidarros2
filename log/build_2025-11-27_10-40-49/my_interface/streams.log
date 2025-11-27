@@ -1,0 +1,20 @@
+[0.165s] Invoking command in '/home/zero/ros2data/build/my_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/ros2data/install/datapack:/opt/ros/humble /usr/bin/cmake --build /home/zero/ros2data/build/my_interface -- -j20 -l20
+[0.213s] Invoked command in '/home/zero/ros2data/build/my_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/ros2data/install/datapack:/opt/ros/humble /usr/bin/cmake --build /home/zero/ros2data/build/my_interface -- -j20 -l20
+[0.219s] Invoking command in '/home/zero/ros2data/build/my_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/ros2data/install/datapack:/opt/ros/humble /usr/bin/cmake --install /home/zero/ros2data/build/my_interface
+[0.224s] -- Install configuration: ""
+[0.224s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/ament_index/resource_index/package_run_dependencies/my_interface
+[0.224s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/ament_index/resource_index/parent_prefix_path/my_interface
+[0.224s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/environment/ament_prefix_path.sh
+[0.224s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/environment/ament_prefix_path.dsv
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/environment/path.sh
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/environment/path.dsv
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/local_setup.bash
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/local_setup.sh
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/local_setup.zsh
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/local_setup.dsv
+[0.225s] -- Installing: /home/zero/ros2data/install/my_interface/share/my_interface/package.dsv
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/ament_index/resource_index/packages/my_interface
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/cmake/my_interfaceConfig.cmake
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/cmake/my_interfaceConfig-version.cmake
+[0.225s] -- Up-to-date: /home/zero/ros2data/install/my_interface/share/my_interface/package.xml
+[0.227s] Invoked command in '/home/zero/ros2data/build/my_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zero/ros2data/install/datapack:/opt/ros/humble /usr/bin/cmake --install /home/zero/ros2data/build/my_interface

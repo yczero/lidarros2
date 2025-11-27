@@ -1,0 +1,33 @@
+[0.416s] Invoking command in '/home/zero/ros2data/src/datapack': PYTHONPATH=/home/zero/ros2data/build/datapack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zero/ros2data/install/datapack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/datapack build --build-base /home/zero/ros2data/build/datapack/build install --record /home/zero/ros2data/build/datapack/install.log --single-version-externally-managed install_data
+[0.551s] running egg_info
+[0.552s] creating ../../build/datapack/datapack.egg-info
+[0.552s] writing ../../build/datapack/datapack.egg-info/PKG-INFO
+[0.552s] writing dependency_links to ../../build/datapack/datapack.egg-info/dependency_links.txt
+[0.552s] writing entry points to ../../build/datapack/datapack.egg-info/entry_points.txt
+[0.552s] writing requirements to ../../build/datapack/datapack.egg-info/requires.txt
+[0.552s] writing top-level names to ../../build/datapack/datapack.egg-info/top_level.txt
+[0.552s] writing manifest file '../../build/datapack/datapack.egg-info/SOURCES.txt'
+[0.553s] reading manifest file '../../build/datapack/datapack.egg-info/SOURCES.txt'
+[0.554s] writing manifest file '../../build/datapack/datapack.egg-info/SOURCES.txt'
+[0.554s] running build
+[0.554s] running build_py
+[0.554s] creating /home/zero/ros2data/build/datapack/build
+[0.554s] creating /home/zero/ros2data/build/datapack/build/lib
+[0.554s] creating /home/zero/ros2data/build/datapack/build/lib/datapack
+[0.555s] copying datapack/__init__.py -> /home/zero/ros2data/build/datapack/build/lib/datapack
+[0.555s] running install
+[0.555s] running install_lib
+[0.555s] creating /home/zero/ros2data/install/datapack/lib/python3.10/site-packages/datapack
+[0.555s] copying /home/zero/ros2data/build/datapack/build/lib/datapack/__init__.py -> /home/zero/ros2data/install/datapack/lib/python3.10/site-packages/datapack
+[0.556s] byte-compiling /home/zero/ros2data/install/datapack/lib/python3.10/site-packages/datapack/__init__.py to __init__.cpython-310.pyc
+[0.556s] running install_data
+[0.556s] creating /home/zero/ros2data/install/datapack/share/ament_index
+[0.556s] creating /home/zero/ros2data/install/datapack/share/ament_index/resource_index
+[0.556s] creating /home/zero/ros2data/install/datapack/share/ament_index/resource_index/packages
+[0.556s] copying resource/datapack -> /home/zero/ros2data/install/datapack/share/ament_index/resource_index/packages
+[0.556s] copying package.xml -> /home/zero/ros2data/install/datapack/share/datapack
+[0.556s] running install_egg_info
+[0.557s] Copying ../../build/datapack/datapack.egg-info to /home/zero/ros2data/install/datapack/lib/python3.10/site-packages/datapack-0.0.0-py3.10.egg-info
+[0.558s] running install_scripts
+[0.570s] writing list of installed files to '/home/zero/ros2data/build/datapack/install.log'
+[0.583s] Invoked command in '/home/zero/ros2data/src/datapack' returned '0': PYTHONPATH=/home/zero/ros2data/build/datapack/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zero/ros2data/install/datapack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/datapack build --build-base /home/zero/ros2data/build/datapack/build install --record /home/zero/ros2data/build/datapack/install.log --single-version-externally-managed install_data

@@ -1,0 +1,9 @@
+/home/zero/ros2data/build/my_interface/CMakeFiles/uninstall.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/my_interface_uninstall.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/test.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/edit_cache.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/rebuild_cache.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/list_install_components.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/install.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/install/local.dir
+/home/zero/ros2data/build/my_interface/CMakeFiles/install/strip.dir
