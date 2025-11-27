@@ -6,6 +6,8 @@ import os
 import random
 import math
 
+
+# client = roslibpy.Ros(host='192.168.56.101', port=9090)
 # DATASET_DIR = os.path.join(os.path.dirname(__file__), "lds02_dataset")
 DATASET_DIR = "/home/zero/ros2data/lds02_dataset"
 class MockLidarPublisher(Node):
