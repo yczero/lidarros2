@@ -1,4 +1,0 @@
-[console_scripts]
-generate_mock_dataset = datapack.generate_mock_dataset:main
-mock_lidar = datapack.mock_lidar:main
-
